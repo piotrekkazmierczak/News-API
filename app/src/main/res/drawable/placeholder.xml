@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:viewportWidth="160"
+    android:viewportHeight="128"
+    android:width="160dp"
+    android:height="128dp">
+    <group
+        android:scaleX="1.333333"
+        android:scaleY="-1.333333"
+        android:translateY="128">
+        <group>
+            <clip-path android:pathData="M0 96H120V0H0Z" />
+            <group>
+                <clip-path android:pathData="M-8 -181H367V486H-8Z" />
+                <path
+                    android:pathData="M-5 -5H125V101H-5Z"
+                    android:fillColor="#e9ecf1" />
+            </group>
+        </group>
+        <group>
+            <clip-path android:pathData="M40 71H79.996V24.54H40Z" />
+            <group>
+                <clip-path android:pathData="M-8 -181H367V486H-8Z" />
+                <group>
+                    <clip-path android:pathData="M40 24H80V71H40Z" />
+                    <group>
+                        <clip-path android:pathData="M67.37578 51.0294c0 3.92401 1.95279 7.39914 4.93641 9.51453 2.04049 -2.6295 3.25595 -5.93008 3.25595 -9.51453 0 -3.58444 -1.21546 -6.88502 -3.25595 -9.51453 -2.98362 2.1154 -4.93641 5.59053 -4.93641 9.51453M59.9977 35.48113c-3.64191 0 -6.99181 1.24922 -9.64376 3.34169 3.65951 2.82103 6.02154 7.24335 6.02154 12.20658 0 4.96354 -2.36203 9.38586 -6.02154 12.20689 2.65195 2.09246 6.00185 3.34169 9.64376 3.34169 3.64221 0 6.99211 -1.24923 9.64406 -3.34169 -3.65981 -2.82103 -6.02154 -7.24335 -6.02154 -12.20689 0 -4.96323 2.36203 -9.38555 6.02154 -12.20658 -2.65195 -2.09247 -6.00185 -3.34169 -9.64406 -3.34169m-12.31389 6.03374c-2.04049 2.62951 -3.25595 5.93009 -3.25595 9.51453 0 3.58445 1.21546 6.88503 3.25595 9.51453 2.98362 -2.11539 4.93641 -5.59052 4.93641 -9.51453 0 -3.924 -1.95279 -7.39913 -4.93641 -9.51453M59.998 71C48.95355 71 40 62.05885 40 51.0294 40 37.38207 53.6087 29.3199 58.37361 25.14987c0.93001 -0.81316 2.31877 -0.81316 3.24878 0C66.3876 29.3199 79.996 37.38207 79.996 51.0294 79.996 62.05885 71.04274 71 59.998 71" />
+                        <group>
+                            <clip-path android:pathData="M40 24H80V71H40Z" />
+                            <path
+                                android:pathData="M35 19.54H84.996V76H35Z"
+                                android:fillColor="#ffffff" />
+                        </group>
+                    </group>
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>
